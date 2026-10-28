@@ -1,0 +1,5 @@
+Ani,80
+Budi,70
+Citra,90
+Deni,60
+Eka,50

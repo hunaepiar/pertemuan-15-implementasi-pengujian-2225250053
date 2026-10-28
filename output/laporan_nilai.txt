@@ -1,0 +1,17 @@
+LAPORAN ANALISIS NILAI MATEMATIKA
+======================================
+Jumlah siswa : 5
+Rata-rata    : 70.00
+Nilai minimum: 50.0
+Nilai maksimum: 90.0
+KKM          : 60
+Jumlah lulus : 4
+Jumlah tidak lulus: 1
+
+DAFTAR NILAI SISWA
+--------------------------------------
+Ani: 80 - Lulus
+Budi: 70 - Lulus
+Citra: 90 - Lulus
+Deni: 60 - Lulus
+Eka: 50 - Tidak Lulus
